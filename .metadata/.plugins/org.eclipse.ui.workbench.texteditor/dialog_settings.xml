@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="append_wl_cache"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="append_wl_cache"/>
+			<item value="row_address_s"/>
+			<item value="ctypes"/>
+			<item value="c"/>
+			<item value="v"/>
+			<item value="self.channel_signal[NANDCoreUnit.CHANNEL_SIGNAL"/>
+			<item value="0"/>
+			<item value="1"/>
+			<item value="len"/>
+			<item value="self"/>
+			<item value="empty"/>
+			<item value="logger"/>
+			<item value="packet."/>
+			<item value="packet"/>
+			<item value=".value"/>
+		</list>
+		<list key="replacehistory">
+			<item value="self.signal[NANDUnit.TARGET_SIGNAL"/>
+			<item value="packet.low"/>
+			<item value="packet.high"/>
+			<item value="await self"/>
+			<item value=""/>
+			<item value=".value])"/>
+			<item value="bytes([COMMAND."/>
+			<item value="rp_pkt"/>
+			<item value="rp_"/>
+			<item value="rp_pkt_hdr_t"/>
+			<item value="."/>
+			<item value="self.logger.debug"/>
+			<item value="data"/>
+			<item value="command.append("/>
+			<item value="COMMAND."/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1377"/>
+		<item key="DIALOG_Y_ORIGIN" value="202"/>
+		<item key="DIALOG_WIDTH" value="369"/>
+		<item key="DIALOG_HEIGHT" value="442"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI"/>
+	</section>
+</section>

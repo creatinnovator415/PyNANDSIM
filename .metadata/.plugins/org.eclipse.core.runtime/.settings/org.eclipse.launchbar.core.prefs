@@ -1,0 +1,16 @@
+LaunchTargetManager/configs/NAND_CLIENT=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+LaunchTargetManager/org.zephyrproject.ide.eclipse.core.launchTargetType.emulator.run,Emulator/arch=zephyr
+LaunchTargetManager/org.zephyrproject.ide.eclipse.core.launchTargetType.emulator.run,Emulator/name=Emulator
+LaunchTargetManager/org.zephyrproject.ide.eclipse.core.launchTargetType.emulator.run,Emulator/os=zephyr
+LaunchTargetManager/org.zephyrproject.ide.eclipse.core.launchTargetType.hardware.run,Hardware/arch=zephyr
+LaunchTargetManager/org.zephyrproject.ide.eclipse.core.launchTargetType.hardware.run,Hardware/name=Hardware
+LaunchTargetManager/org.zephyrproject.ide.eclipse.core.launchTargetType.hardware.run,Hardware/os=zephyr
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:NAND_SERVER,org.eclipse.launchbar.core.descriptorType.default\:NAND_CLIENT
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:NAND_CLIENT/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:NAND_CLIENT/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
